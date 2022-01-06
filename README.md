@@ -1,7 +1,5 @@
 ### Hi there, I'm Clinton from Nigeria 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Microverse
 - 🌱 I’m currently learning Javascipt
 - 👯 I’m looking to collaborate on Open Source Projects
