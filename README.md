@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matovu-farid&show_icons=true&theme=radical&layout=compact)](https://github.com/matovu-farid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintonjosephs&show_icons=true&theme=radical&layout=compact)](https://github.com/clintonjosephs/github-readme-stats)
 
