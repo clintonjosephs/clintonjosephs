@@ -1,4 +1,4 @@
-### Hi there, I am Clinton from Nigeria 👋
+### Hi there, I'm Clinton from Nigeria 👋
 
 Here are some ideas to get you started:
 
