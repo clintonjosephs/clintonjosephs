@@ -57,7 +57,7 @@
       alt="bootstrap"/>
   </a>
   <a href="https://angular.io/" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="babel"/> 
+    <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular" width="70px"/> 
   </a>
 
   <a href="https://reactjs.org/" target="_blank"> 
@@ -80,6 +80,7 @@
     <a href="https://rubyonrails.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails" /> 
   </a>
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p> 
 <h3 align="center">Database</h3>
 <p align="center">
