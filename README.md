@@ -7,13 +7,13 @@
 <br />
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently working at **Microverse** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👯 I’m looking to collaborate on **Ruby and Rails**
 
 - 🤝 I’m looking for help with **Algorithms and Data Structures**
 
-- 👨‍💻 All of my projects are available [@codecaiine](github.com/clintonjosephs26)
+- 👨‍💻 All of my projects are available [@clintonjosephs](github.com/clintonjosephs26)
 
 - 💬 Ask me about **Software Development**
 
@@ -162,14 +162,11 @@
   </a>
 </p>
 
-----
-
-
-⭐️ From [codecaiine](https://github.com/codecaiine/codecaiine)
+⭐️ From [clintonjosephs](https://github.com/clintonjosephs)
 
 
 
-[![Clinton's github stats](https://github-readme-stats.vercel.app/api?username=clintonjosephs&show_icons=true&theme=radical)](https://github.com/clintonjosephs/github-readme-stats)
+[![clintonjosephs's github stats](https://github-readme-stats.vercel.app/api?username=clintonjosephs&show_icons=true&theme=radical)](https://github.com/clintonjosephs/github-readme-stats)
 
 
 
