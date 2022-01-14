@@ -3,13 +3,13 @@
 
 <h1 align="center">Hey, I'm Clinton!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<h3 font-size="20" align="center">A passionate Full-Stack Engineer, Co-Founder and Tech Entrepreneur from Nigeria.</h3>
+<h3 font-size="20" align="center">A passionate Full-Stack Developer, Co-Founder and Tech Entrepreneur from Nigeria.</h3>
 <br />
 
 
 - 🌱 I’m currently working at **Microverse** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 👯 I’m looking to collaborate on **Ruby and Rails**
+- 👯 I’m looking to collaborate on **Software Development Projects**
 
 - 🤝 I’m looking for help with **Algorithms and Data Structures**
 
