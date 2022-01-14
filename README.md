@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey, I'm Clinton!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<h3 font-size="20" align="center">A passionate Full-Stack Developer, Co-Founder and Tech Entrepreneur from Nigeria.</h3>
+<h3 font-size="20" align="center">A passionate Full-stack developer, Co-founder and Tech entrepreneur from Nigeria.</h3>
 <br />
 
 
