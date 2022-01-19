@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Algorithms and Data Structures**
 
-- 👨‍💻 All of my projects are available [@clintonjosephs](github.com/clintonjosephs26)
+- 👨‍💻 Some of my projects are available on [@portfolio](https://clintonjosephs.github.io/portfolio_website/)
 
 - 💬 Ask me about **Software Development**
 
