@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=clintonjosephs.visitor-badge)
-
-
 <h1>Hey, I'm Clinton!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 font-size="20">A passionate Full-stack developer, Co-founder and Tech entrepreneur from Nigeria.</h3>
@@ -20,7 +17,9 @@
 - ⚡ Fun fact **I play drums**
 
 <br />
-
+## 👱 Visitor count
+<img src="https://profile-counter.glitch.me/clintonjosephs/count.svg" />
+<p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
 <h3>Languages</h3>
