@@ -1,9 +1,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=clintonjosephs.visitor-badge)
 
 
-<h1 align="center">Hey, I'm Clinton!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1>Hey, I'm Clinton!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<h3 font-size="20" align="center">A passionate Full-stack developer, Co-founder and Tech entrepreneur from Nigeria.</h3>
+<h3 font-size="20">A passionate Full-stack developer, Co-founder and Tech entrepreneur from Nigeria.</h3>
 <br />
 
 
@@ -21,10 +21,10 @@
 
 <br />
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h2><u><b>Knowledge Base</b></u></h2>
 
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3>Languages</h3>
+<p>
    <a href="https://www.php.net/" target="_blank"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
       alt="php"/> 
@@ -50,8 +50,9 @@
       alt="json"/>
   </a>
 </p>
-<h3 align="center">Frontend</h3>
-<p align="center">
+<p>
+<h3>Frontend</h3>
+<p>
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -75,15 +76,16 @@
       alt="webpack"/>
   </a>
 </p>
-<h3 align="center">Backend</h3>
-<p align="center">
+<p>
+<h3>Backend</h3>
+<p>
     <a href="https://rubyonrails.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
   </a>
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p> 
-<h3 align="center">Database</h3>
-<p align="center">
+<h3>Database</h3>
+<p>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/>
@@ -93,8 +95,9 @@
       alt="sqlite"/> 
   </a> 
 </p>
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
+<p>
+<h3>Cloud & Hosting:</h3>
+<p>
   <a href="https://cloud.google.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google cloud"/> 
   </a>
@@ -109,8 +112,9 @@
       alt="heroku"/> 
   </a> 
 </p>
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
+<p>
+<h3>Version Control & CI/CD</h3>
+<p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
@@ -119,8 +123,9 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
-<h3 align="center">Preferred IDEs & Tools :</h3>
-<p align="center"> 
+<p>
+<h3>Preferred IDEs & Tools :</h3>
+<p> 
    <a href="https://developer.android.com/" target="_blank">
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/> 
   </a>
@@ -137,9 +142,9 @@
 
 ----
 
-<h3 align="center">Connect with me</h3>
+<h3>Connect with me</h3>
 
-<div style="margin-top:10px" align="center">
+<div style="margin-top:10px">
   <div>
     <a  href="https://www.linkedin.com/in/yannick-no%C3%ABl-aka/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
@@ -154,10 +159,10 @@
     </a>
   </div>
 </div>
+<p>
+<h3>Reach me</h3>
 
-<h3 align="center">Reach me</h3>
-
-<p align="center">
+<p>
   <a href="mailto:clintonjosephs26@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
