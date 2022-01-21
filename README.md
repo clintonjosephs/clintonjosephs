@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I play drums**
 
 <br />
-## 👱 Visitor count
+<h3> 👱 Visitors count </h3>
 <img src="https://profile-counter.glitch.me/clintonjosephs/count.svg" />
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
