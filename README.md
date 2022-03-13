@@ -148,7 +148,7 @@
     <a  href="https://www.linkedin.com/in/clinton-mbonu/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
-    <a href="https://twitter.com/ClintonMbonu1" target="_blank">
+    <a href="https://twitter.com/clintonmbonu2" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
   </div>
