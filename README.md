@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
-- 🤝 I’m looking for help with **Algorithms and Data Structures**
+- 🤝 I’m open to new **opportunities**
 
 - 👨‍💻 Some of my projects are available on [@portfolio](https://clintonjosephs.github.io/portfolio_website/)
 
