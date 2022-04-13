@@ -1,6 +1,6 @@
 <h1>Hey, I'm Clinton!<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<h3 font-size="20">A passionate Full-stack developer, Co-founder and Tech entrepreneur from Nigeria.</h3>
+<h3 font-size="20">A software engineer who is passionate about solving real-life problems using relevant technology</h3>
 <br />
 
 
