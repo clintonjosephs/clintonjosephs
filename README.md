@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I play drums**
 </div>
 <div>
-<img align="right" style="width:6rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img style="width:6rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 </div>
 </div>
 
