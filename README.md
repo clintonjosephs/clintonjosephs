@@ -3,18 +3,24 @@
 <h3 font-size="20">A software engineer who is passionate about solving real-life problems using relevant technology</h3>
 <br />
 
-
-- 🌱 I’m currently working **Remotely** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<div style="display:flex; flex-direction: row;">
+<div>
+- 🌱 I’m currently working **Remotely** 
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
 - 🤝 I’m open to new **opportunities**
 
-- 👨‍💻 Some of my projects are available on [@portfolio](https://clintonjosephs.github.io/portfolio_website/)
+- 👨‍💻 Some of my projects are available on [@portfolio](https://clinton-mbonu.netlify.app/)
 
 - 💬 Ask me about **Software Development**
 
 - ⚡ Fun fact **I play drums**
+</div>
+<div>
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+</div>
+</div>
 
 <br />
 <h3> 👱 Visitors count </h3>
