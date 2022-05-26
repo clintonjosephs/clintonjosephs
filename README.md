@@ -4,8 +4,8 @@
 <br />
 
 <table style="border:none;">
-<tr>
-<td width="70%">
+<tr style="border:none;">
+<td width="70%" style="border:none;">
 - 🌱 I’m currently working **Remotely** 
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I play drums**
 </td>
-<td>
+<td style="border:none;">
 <img style="width:6rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 </td>
 </tr>
