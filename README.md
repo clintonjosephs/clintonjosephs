@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td>
+<td width="70%">
 - 🌱 I’m currently working **Remotely** 
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
