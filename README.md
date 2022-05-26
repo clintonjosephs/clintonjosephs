@@ -3,7 +3,7 @@
 <h3 font-size="20">A software engineer who is passionate about solving real-life problems using relevant technology</h3>
 <br />
 
-<table>
+<table style="border:none;">
 <tr>
 <td width="70%">
 - 🌱 I’m currently working **Remotely** 
