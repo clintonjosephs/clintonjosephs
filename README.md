@@ -3,8 +3,9 @@
 <h3 font-size="20">A software engineer who is passionate about solving real-life problems using relevant technology</h3>
 <br />
 
-<div style="display:flex; flex-direction: row;">
-<div>
+<table>
+<tr>
+<td>
 - 🌱 I’m currently working **Remotely** 
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
@@ -16,11 +17,12 @@
 - 💬 Ask me about **Software Development**
 
 - ⚡ Fun fact **I play drums**
-</div>
-<div>
+</td>
+<td>
 <img style="width:6rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 <br />
 <h3> 👱 Visitors count </h3>
